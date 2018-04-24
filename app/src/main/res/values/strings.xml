@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YTDL</string>
+    <string name="button_dl">Download</string>
+    <string name="beschriftung_url">Youtube, Soundcloud,... Link einfügen:</string>
+    <string name="verlauf">Verlauf:</string>
+
+
+    <string name="notification_Title_Convert">Download wird vorbereitet</string>
+
+
+    <string name="warning_Timeout">Verbindungs Timeout</string>
+    <string name="warning_NoInternet">Kein Internet</string>
+    <string name="warning_HttpException">Anfrage konnte vom Server nicht beantwortet werden.</string>
+
+</resources>

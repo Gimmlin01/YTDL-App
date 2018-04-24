@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/ic_download_frame00" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame01" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame02" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame03" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame04" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame05" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame06" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame07" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame08" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame09" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame10" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame11" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame12" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame13" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame14" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame15" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame16" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame17" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame18" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame19" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame20" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame21" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame22" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame23" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame24" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame25" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame26" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame27" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame28" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame29" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame30" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame31" android:duration="400" />
+    <item android:drawable="@drawable/ic_download_frame32" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame33" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame34" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame35" android:duration="40" />
+    <item android:drawable="@drawable/ic_download_frame36" android:duration="40" />
+</animation-list>
